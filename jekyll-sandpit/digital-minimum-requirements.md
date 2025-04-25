@@ -1,3 +1,9 @@
+---
+layout: page
+title: Digital minimum requirements
+permalink: /digital-minimum-requirements/
+---
+
 | DIMR menu item | DIMR domain | DIMR statement | Hosted | On prem | Mobile |
 | --- | --- | --- | --- | --- | --- |
 | DIMR\_EU\_1 | End user computing | The Trust’s standard end user computing environment uses recent versions of Windows 10, Windows 11 and Office 365. The solution MUST be compatible with these products. | Yes | Yes | |
